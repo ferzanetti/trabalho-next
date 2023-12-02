@@ -3,7 +3,7 @@ export default function Rodape() {
     return (
         <div className={styles.rodape}>
             <p>
-                Fernanda Zanetti, Julia Gancedo
+                Fernanda Zanetti, Júlia Gancedo, Nathália Costa
             </p>
             <p>
                 FrameWorks 2 - Ricardo Nascimento (;
